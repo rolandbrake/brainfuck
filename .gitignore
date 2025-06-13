@@ -15,8 +15,6 @@ Thumbs.db
 *.out
 *.exe
 
-# Generated files
-README.md
 
 
 .vscode/
