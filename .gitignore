@@ -1,0 +1,25 @@
+# Compiled binary
+bf
+
+# Object files
+*.o
+
+# Editor/OS-specific files
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.out
+*.exe
+
+# Generated files
+README.md
+
+
+.vscode/
+
+# Backup or temporary files
+*~
